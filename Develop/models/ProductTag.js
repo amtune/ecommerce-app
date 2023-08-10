@@ -28,9 +28,7 @@ ProductTag.init(
         unique: false,
       },
     },
-    }, {
-      
-  },
+    }, 
   {
     sequelize,
     timestamps: false,
